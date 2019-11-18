@@ -1,0 +1,9 @@
+# CVS $Revision: $ $Author: $ -- Fri Jun 17 21:51:56 2016 -- reformated by PCGen PrettyLST v6.06.00
+SOURCELONG:Distant Realms	SOURCESHORT:DR	SOURCEWEB:http://paizo.com/products/btpy8mfs?Pathfinder-Campaign-Setting-Distant-Realms	SOURCEDATE:2018-06
+
+Aligned Sneak Attack		KEY:Trait ~ Aligned Sneak Attack		CATEGORY:Special Ability	TYPE:Trait.BasicTrait.MagicTrait.Supernatural	PREMULT:1,[PREABILITY:1,CATEGORY=Special Ability,Trait ~ Aligned Sneak Attack],[PREVAREQ:BypassTraitRestriction,1],[!PREABILITY:1,CATEGORY=Special Ability,TYPE,MagicTrait]		DESC:When making a sneak attack against a creature that has damage reduction that can be overcome by weapons of a particular alignment (such as DR 5/good), your attack reduces that damage reduction by an amount equal to the number of sneak attack dice rolled until the end of the your turn.
+Sever Alignment				KEY:Trait ~ Sever Alignment				CATEGORY:Special Ability	TYPE:Trait.BasicTrait.MagicTrait.Supernatural	PREABILITY:1,CATEGORY=Special Ability,Trait ~ Aligned Sneak Attack		DESC:When making a sneak attack against an opponent with an alignment subtype, you can forgo your sneak attack damage to scramble the creature’s metaphysical nature. If the attack succeeds, you deal weapon damage as normal, and the target must succeed at a Fortitude save (DC = 10 + half the rogue’s level + the rogue’s (or slayer’s) Intelligence modifier) or lose all damage reduction overcome by aligned weapons (such as DR 10/good), lose all regeneration overcome by aligned sources (such as regeneration 10 [good]), and lose the ability to cast spells and use spell-like abilities with alignment descriptors for 1 round for every 2d6 points of sneak attack damage the rogue (or slayer) would have dealt (minimum 1 round).
+
+###
+# End
+###

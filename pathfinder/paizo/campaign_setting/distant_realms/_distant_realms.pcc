@@ -45,6 +45,8 @@ COPYRIGHT:PCGen dataset conversion for "Pathfinder Campaign Setting: Distant Rea
 # Data Files
 ABILITY:dr_abilities.lst
 ABILITY:dr_abilities_class.lst
+ABILITY:dr_abilities_traits.lst
+ABILITYCATEGORY:dr_abilitycategories.lst
 #EQUIPMENT:dr_equip.lst
 ABILITY:dr_feats.lst
 #KIT:dr_kits.lst
@@ -54,17 +56,6 @@ ABILITY:dr_feats.lst
 SPELL:dr_spells.lst
 EQUIPMOD:dr_equipmods.lst
 
-# ENTRY DATE: 2019-11
-# LST MONKEY: orangepeelbeef
-# LICENSE MONKEY:
-# RELEASE REVIEW #
-# BETA: Andrew Maitland
-# RELEASE:
-# Built for PCGen Version: 6.09.02
-# Updated to work with version: -
-# MINVER:6.8
-# MINDEVVER:6.08.1
-# COMMENTS:
 
 #
 # End

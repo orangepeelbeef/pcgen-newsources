@@ -12,6 +12,10 @@ Shifting Patterns		CATEGORY:FEAT			TYPE:General			PRETEXT:Spell Focus (illusion)
 # Astral Mastery / Yulgamot
 Magic Trick				CATEGORY:FEAT			TYPE:General			PRETEXT:Ability to cast the chosen spell or spell-like ability.			DESC:You understand how to manipulate a spell or ability beyond its typical uses.					STACK:NO	MULT:YES	CHOOSE:ABILITYSELECTION|Special Ability|QUALIFIED[TYPE=MagicTrick]	ABILITY:Special Ability|AUTOMATIC|%LIST		SOURCEPAGE:p.61		BENEFIT:You can use any magic tricks relating to the chosen spell so long as you meet the appropriate magic trick requirements.
 
+# Bardic Masterpieces can be feats too
+Masterpiece (Symphony of the Dark Prince)	CATEGORY:FEAT		TYPE:Masterpiece																																						PRESKILL:1,Perform (Sing)=15																																	PREVARGTEQ:MasterpieceLVL,1		DESC:You learn the masterpiece Symphony of the Dark Prince																																										SOURCEPAGE:p.23
+Masterpiece (Night Queen's Fury)			CATEGORY:FEAT		TYPE:Masterpiece																																						PRESKILL:1,Perform (Act)=7,Perform(Oratory)=7																													PREVARGTEQ:MasterpieceLVL,1		DESC:You learn the masterpiece Night Queen's Fury																																												SOURCEPAGE:p.23
+
 ###Block: Feat MODs
 # Feat Name					Bonus Ability Pool
 # Ability Name						Type
